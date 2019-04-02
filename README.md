@@ -10,34 +10,36 @@ FPDF is a PHP class which allows to generate PDF files with pure PHP. F from FPD
 
 ## Installation with Composer
 If you're using Composer to manage dependencies, you can use
-
-    $ composer require "jeffersoncarvalho/fpdf"
+```php
+$ composer require "jeffersoncarvalho/fpdf"
+```
+or you can include the following in your composer.json file:
+```php
+{
+    "require": {
+        "jeffersoncarvalho/fpdf": "1.9.0"
+    }
+}
+```
 
 or you can include the following in your composer.json file:
-
-    {
-        "require": {
-            "jeffersoncarvalho/fpdf": "1.9.0"
-        }
+```php
+{
+    "require": {
+        "jeffersoncarvalho/fpdf": "1.9.0"
     }
-
-or you can include the following in your composer.json file:
-
-    {
-        "require": {
-             "jeffersoncarvalho/fpdf": "1.9.0"
-        }
-    }
+}
+```
 
 ## Usage
 Once the extension is installed, simply use it in your code by :
-
-    $pdf = new FPDF();
-    $pdf->AddPage();
-    $pdf->SetFont('Arial','B',16);
-    $pdf->Cell(40,10,'Hello World!');
-    $pdf->Output('D');
-    
+```php
+$pdf = new FPDF();
+$pdf->AddPage();
+$pdf->SetFont('Arial','B',16);
+$pdf->Cell(40,10,'Hello World!');
+$pdf->Output('D');
+```    
 ## Documentation
 
 Please read documentation of [FPDF](http://fpdf.de/dokumentation/)
