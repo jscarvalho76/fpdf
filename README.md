@@ -48,11 +48,13 @@ Please read documentation of [FPDF](http://fpdf.de/dokumentation/)
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
 
-[ico-version]: https://img.shields.io/packagist/v/:author_username/:package_name.svg?style=flat-square
+[ico-version]: https://img.shields.io/packagist/v/jeffersoncarvalho/fpdf.svg?style=flat-square
 [ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
-[ico-downloads]: https://img.shields.io/packagist/dt/:author_username/:package_name.svg?style=flat-square
+[ico-downloads]: https://img.shields.io/packagist/dt/jeffersoncarvalho/fpdf.svg?style=flat-square
 
 [link-packagist]: https://packagist.org/packages/jeffersoncarvalho/fpdf
 [link-downloads]: https://packagist.org/packages/jeffersoncarvalho/fpdf
 [link-author]: https://github.com/jscarvalho76
 [link-contributors]: ../../contributors
+
+
