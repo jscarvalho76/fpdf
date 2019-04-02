@@ -12,11 +12,13 @@
         {
             "name": "Olivier Plathey",
             "email": "oliver@fpdf.org",
-            "homepage": "http://fpdf.org/"
+            "homepage": "http://fpdf.org/",
+            "role": "Developer"
         },
         {
             "name": "Jefferson Carvalho",
-            "homepage": "http://www.jeffersoncarvalho.com.br/"
+            "homepage": "http://www.jeffersoncarvalho.com.br/",
+            "role": "translator"
         }
     ],
     "require":{
