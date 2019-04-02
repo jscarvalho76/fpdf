@@ -52,11 +52,11 @@ The MIT License (MIT). Please see [License File](LICENSE.md) for more informatio
 
 [ico-version]: https://img.shields.io/packagist/v/jeffersoncarvalho/fpdf.svg?style=flat-square
 [ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
-[ico-downloads]: https://img.shields.io/packagist/dt/jeffersoncarvalho/fpdf.svg?label=donwload%20Packagist&style=flat-square
+[ico-downloads]: https://img.shields.io/packagist/dt/jeffersoncarvalho/fpdf.svg?label=donwloads%20Packagist&style=flat-square
 
 [ico-jefferson]:https://img.shields.io/badge/Powered_by-Jefferson_Carvalho-orange.svg?style=flat-square
 
-[GitHub All Releases]:https://img.shields.io/github/downloads/jscarvalho76/fpdf/total.svg?label=donwload%20Git&style=flat-square
+[GitHub All Releases]:https://img.shields.io/github/downloads/jscarvalho76/fpdf/total.svg?label=donwloads%20Git&style=flat-square
 
 [link-packagist]: https://packagist.org/packages/jeffersoncarvalho/fpdf
 [link-downloads]: https://packagist.org/packages/jeffersoncarvalho/fpdf
