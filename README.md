@@ -12,7 +12,7 @@ or you can include the following in your composer.json file:
 
 {
     "require": {
-        "jscarvalho76/fpdf": "1.8.1"
+        "jeffersoncarvalho/fpdf": "1.8.1"
     }
 }
 
@@ -20,6 +20,6 @@ or you can include the following in your composer.json file:
 
 {
     "require": {
-        "jscarvalho76/fpdf": "1.8.1"
+        "jeffersoncarvalho/fpdf": "1.8.1"
     }
 }
