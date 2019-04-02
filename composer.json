@@ -1,7 +1,7 @@
     
 {
     "name": "jeffersoncarvalho/fpdf",
-    "version": "1.8.1",
+    "version": "1.0.0",
     "homepage": "http://www.fpdf.org",
     "description": "FPDF for Yii2",
     "type": "library",
@@ -24,7 +24,7 @@
     },
     "autoload": {
         "psr-4": {
-            "FPDF": ""
+            "jeffersoncarvalho\\fpdf": ""
         }
     }
 }
