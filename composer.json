@@ -3,7 +3,7 @@
     "name": "jeffersoncarvalho/fpdf",
     "version": "1.8.1",
     "homepage": "http://www.fpdf.org",
-    "description": "FPDF is a PHP class which allows to generate PDF files with pure PHP. F from FPDF stands for Free: you may use it for any kind of usage and modify it to suit your needs.",
+    "description": "FPDF for Yii2",
     "type": "library",
     "keywords": ["pdf", "fpdf", "php"],
     "license": "MIT",
@@ -13,6 +13,10 @@
             "name": "Olivier Plathey",
             "email": "oliver@fpdf.org",
             "homepage": "http://fpdf.org/"
+        },
+        {
+            "name": "Jefferson Carvalho",
+            "homepage": "http://www.jeffersoncarvalho.com.br/"
         }
     ],
     "require":{
@@ -20,7 +24,7 @@
     },
     "autoload": {
         "psr-4": {
-            "jeffersoncarvalho\\fpdf\\": ""
+            "FPDF": ""
         }
     }
 }
