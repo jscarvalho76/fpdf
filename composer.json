@@ -1,11 +1,11 @@
     
 {
     "name": "jeffersoncarvalho/fpdf",
-    "version": "1.0.0",
+    "version": "1.9.0",
     "homepage": "http://www.fpdf.org",
     "description": "FPDF for Yii2",
     "type": "library",
-    "keywords": ["pdf", "fpdf", "php"],
+    "keywords": ["pdf", "fpdf", "php", "yii2"],
     "license": "MIT",
     "minimum-stability": "stable",
     "authors": [
@@ -24,7 +24,7 @@
     },
     "autoload": {
         "psr-4": {
-            "jeffersoncarvalho\\fpdf": ""
+            "jeffersoncarvalho\\fpdf\\": ["src"]
         }
     }
 }
