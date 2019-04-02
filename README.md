@@ -4,6 +4,7 @@
 [![Software License][ico-license]](LICENSE.md)
 [![Total Downloads][ico-downloads]][link-downloads]
 ![ico-jefferson]
+![GitHub All Releases]
 
 This repository is only made for cloning official FPDF releases which are available at: http://www.fpdf.org THERE WILL BE NO DEVELOPMENT IN THIS REPOSITORY!
 
@@ -51,9 +52,11 @@ The MIT License (MIT). Please see [License File](LICENSE.md) for more informatio
 
 [ico-version]: https://img.shields.io/packagist/v/jeffersoncarvalho/fpdf.svg?style=flat-square
 [ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
-[ico-downloads]: https://img.shields.io/packagist/dt/jeffersoncarvalho/fpdf.svg?style=flat-square
+[ico-downloads]: https://img.shields.io/packagist/dt/jeffersoncarvalho/fpdf.svg?label=donwload%20Packagist&style=flat-square
 
-[ico-jefferson]:https://img.shields.io/badge/Powered_by-Jefferson_Carvalho-orange.svg
+[ico-jefferson]:https://img.shields.io/badge/Powered_by-Jefferson_Carvalho-orange.svg?style=flat-square
+
+[GitHub All Releases]:https://img.shields.io/github/downloads/jscarvalho76/fpdf/total.svg?label=donwload%20Git&style=flat-square
 
 [link-packagist]: https://packagist.org/packages/jeffersoncarvalho/fpdf
 [link-downloads]: https://packagist.org/packages/jeffersoncarvalho/fpdf
