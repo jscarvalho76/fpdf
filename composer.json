@@ -14,6 +14,9 @@
             "homepage": "http://fpdf.org/"
         }
     ],
+    "require":{
+        "php":">5.4"
+    },
     "autoload": {
         "classmap": [
             "fpdf.php"
