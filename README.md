@@ -7,7 +7,7 @@ FPDF is a PHP class which allows to generate PDF files with pure PHP. F from FPD
 ## Installation with Composer
 If you're using Composer to manage dependencies, you can use
 
-    $ composer require "jeffersoncarvalho/fpdf:1.9.0"
+    $ composer require "jeffersoncarvalho/fpdf"
 
 or you can include the following in your composer.json file:
 
