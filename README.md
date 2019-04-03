@@ -1,10 +1,11 @@
 # FPDF for YII2
 
 [![Latest Version on Packagist][ico-version]][link-packagist]
-[![Software License][ico-license]](LICENSE.md)
 [![Total Downloads][ico-downloads]][link-downloads]
-![ico-jefferson]
+[![Software License][ico-license]](LICENSE.md)
 ![GitHub All Releases]
+![Powered][ico-jefferson]
+
 
 This repository is only made for cloning official FPDF releases which are available at: http://www.fpdf.org THERE WILL BE NO DEVELOPMENT IN THIS REPOSITORY!
 
@@ -12,11 +13,11 @@ FPDF is a PHP class which allows to generate PDF files with pure PHP. F from FPD
 
 ## Installation with Composer
 If you're using Composer to manage dependencies, you can use
-```php
+```bash
 $ composer require "jeffersoncarvalho/fpdf"
 ```
 or you can include the following in your composer.json file:
-```php
+```json
 {
     "require": {
         "jeffersoncarvalho/fpdf": "1.9.0"
@@ -25,7 +26,7 @@ or you can include the following in your composer.json file:
 ```
 
 or you can include the following in your composer.json file:
-```php
+```json
 {
     "require": {
         "jeffersoncarvalho/fpdf": "1.9.0"
